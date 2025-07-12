@@ -33,4 +33,6 @@ In its current state, the API provides the core functionality needed for a blog 
 
 Overall, this Django Blog API project offers a practical example of building secure and scalable RESTful APIs using Django, Django REST Framework, and MySQL. It balances simplicity with real-world functionality and serves as a solid starting point for personal, academic, or commercial development projects.
 
+<img width="1889" height="986" alt="Image" src="https://github.com/user-attachments/assets/58cbd009-e469-43d0-8b10-44682f6de660" />
 
+<img width="1918" height="1127" alt="Image" src="https://github.com/user-attachments/assets/865bb103-6138-4eef-8ad1-fef01d0b86eb" />
